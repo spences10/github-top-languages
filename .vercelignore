@@ -1,0 +1,8 @@
+# Ignore everything (folders and files) on root only
+/*
+!api
+!vercel.json
+!package.json
+!tsconfig.json
+!src
+!*.html

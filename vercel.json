@@ -1,0 +1,6 @@
+{
+  "routes": [{ "src": "/pie.png", "dest": "/api/card.ts" }],
+  "env": {
+    "GITHUB_GRAPHQL_TOKEN": "@github_graphql_token"
+  }
+}
